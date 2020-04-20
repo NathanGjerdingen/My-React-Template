@@ -13,8 +13,8 @@ To have an easy pulled react build with all my fav stuff built into it for seaml
 ### `npm start`
 
 - Runs the app in dev on [http://localhost:3000](http://localhost:3000)
-- Hot reloads
-- Linting Errors
+- Hot reloads everything
+- Linting Errors in broser
 
 ### `npm build`
 
