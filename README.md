@@ -12,8 +12,8 @@ This will be the start to many new projects on the horizon! If you've stumbled u
 
 ## Progress
 
-04/19 - Project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-04/19 - Set up concurrently to run multiple script commands with `npm start`.
-04/19 - Dropped in Sass framework and [spaceBase](https://spacebase.space150.com/).
-05/08 - Removed testing folder, js, and files. Out of scope for this project.
-05/08 - Reorganized for Component based building and now imports dynamic data via siteData.json at the root of the public folder.
+- 04/19: Project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- 04/19: Set up concurrently to run multiple script commands with `npm start`.
+- 04/19: Dropped in Sass framework and [spaceBase](https://spacebase.space150.com/).
+- 05/08: Removed testing folder, js, and files. Out of scope for this project.
+- 05/08: Reorganized for Component based building and now imports dynamic data via siteData.json at the root of the public folder.
